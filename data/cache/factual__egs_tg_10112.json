@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"Когда Fortnite вернётся в Google Play за пределами США?\", \"answer\": \"19 марта\", \"evidence\": \"Epic Games объявила, что игра снова появится в Google Play за пределами США уже 19 марта.\"}\n```",
+ "usage": [
+  379,
+  76
+ ],
+ "json": {
+  "question": "Когда Fortnite вернётся в Google Play за пределами США?",
+  "answer": "19 марта",
+  "evidence": "Epic Games объявила, что игра снова появится в Google Play за пределами США уже 19 марта."
+ }
+}

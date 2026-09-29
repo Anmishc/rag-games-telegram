@@ -1,0 +1,13 @@
+{
+ "raw": "```json\n{\n  \"question\": \"Какие игры раздавались бесплатно в Epic Games Store в период с 14 по 28 мая 2026 года?\",\n  \"answer\": \"С 14 по 21 мая раздавались Sunderfolk – Standard Edition и The Telltale Batman Shadows Edition, а с 21 по 28 мая — Down in Bermuda и Tomb Raider I-III Remastered Starring Lara Croft.\",\n  \"evidence_1\": \"В Epic Games Store стартовала новая раздача: Down in Bermuda, Tomb Raider I-III Remastered Starring Lara Croft. Забрать игры бесплатно можно до 28 мая\",\n  \"evidence_2\": \"В Epic Games Store стартовала новая раздача. Бесплатно можно забрать: Sunderfolk – Standard Edition, The Telltale Batman Shadows Edition. Раздача продлится до 21 мая\"\n}\n```",
+ "usage": [
+  595,
+  266
+ ],
+ "json": {
+  "question": "Какие игры раздавались бесплатно в Epic Games Store в период с 14 по 28 мая 2026 года?",
+  "answer": "С 14 по 21 мая раздавались Sunderfolk – Standard Edition и The Telltale Batman Shadows Edition, а с 21 по 28 мая — Down in Bermuda и Tomb Raider I-III Remastered Starring Lara Croft.",
+  "evidence_1": "В Epic Games Store стартовала новая раздача: Down in Bermuda, Tomb Raider I-III Remastered Starring Lara Croft. Забрать игры бесплатно можно до 28 мая",
+  "evidence_2": "В Epic Games Store стартовала новая раздача. Бесплатно можно забрать: Sunderfolk – Standard Edition, The Telltale Batman Shadows Edition. Раздача продлится до 21 мая"
+ }
+}
