@@ -4,5 +4,10 @@
  "pc_post_128": 44.7,
  "pc_256_64": 47.2,
  "pc_512_128": 44.8,
- "dense_prepend_sentence_128": 73.2
+ "dense_prepend_sentence_128": 73.2,
+ "dense_step_2_normalize": 48.9,
+ "sub_sentence_128_0": 15.3,
+ "sub_sentence_128_1": 10.1,
+ "sub_sentence_128_2": 11.5,
+ "sub_sentence_128_3": 27.3
 }
