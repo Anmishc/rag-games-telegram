@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"Какое новое подразделение создала Electronic Arts для размещения рекламы в играх?\", \"answer\": \"EA Advertising\", \"evidence\": \"Electronic Arts запустила новое подразделение EA Advertising, которое займётся встроенной рекламой в играх и живых ивентах.\"}\n```",
+ "usage": [
+  394,
+  90
+ ],
+ "json": {
+  "question": "Какое новое подразделение создала Electronic Arts для размещения рекламы в играх?",
+  "answer": "EA Advertising",
+  "evidence": "Electronic Arts запустила новое подразделение EA Advertising, которое займётся встроенной рекламой в играх и живых ивентах."
+ }
+}

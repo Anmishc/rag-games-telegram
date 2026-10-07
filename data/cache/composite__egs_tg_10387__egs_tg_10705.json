@@ -1,0 +1,13 @@
+{
+ "raw": "```json\n{\n  \"question\": \"Вошла ли LEGO Batman: Legacy of the Dark Knight в топ-10 самых продаваемых игр в США за первую половину 2026 года, несмотря на то что её защита Denuvo была взломана в день релиза?\",\n  \"answer\": \"Да, LEGO Batman: Legacy of the Dark Knight вошла в топ-10 самых продаваемых игр в США за первую половину 2026 года по данным Circana, хотя её защита Denuvo была снята хакером Voices38 прямо в день релиза и игра сразу появилась на торрентах.\",\n  \"evidence_1\": \"LEGO Batman: Legacy of the Dark Knight уже появились на торрентах. Сообщается, что Voices38 смог удалить защиту Denuvo — у LEGO Batman это получилось прямо в день релиза\",\n  \"evidence_2\": \"В первую десятку также вошли Forza Horizon 6, LEGO Batman: Legacy of the Dark Knight и другие крупные релизы.\"\n}\n```",
+ "usage": [
+  566,
+  301
+ ],
+ "json": {
+  "question": "Вошла ли LEGO Batman: Legacy of the Dark Knight в топ-10 самых продаваемых игр в США за первую половину 2026 года, несмотря на то что её защита Denuvo была взломана в день релиза?",
+  "answer": "Да, LEGO Batman: Legacy of the Dark Knight вошла в топ-10 самых продаваемых игр в США за первую половину 2026 года по данным Circana, хотя её защита Denuvo была снята хакером Voices38 прямо в день релиза и игра сразу появилась на торрентах.",
+  "evidence_1": "LEGO Batman: Legacy of the Dark Knight уже появились на торрентах. Сообщается, что Voices38 смог удалить защиту Denuvo — у LEGO Batman это получилось прямо в день релиза",
+  "evidence_2": "В первую десятку также вошли Forza Horizon 6, LEGO Batman: Legacy of the Dark Knight и другие крупные релизы."
+ }
+}

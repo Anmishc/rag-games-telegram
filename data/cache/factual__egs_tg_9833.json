@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"До какого числа можно бесплатно забрать Bloons TD 6 в Epic Games Store?\", \"answer\": \"До 15 января\", \"evidence\": \"Забрать можно до 15 января\"}\n```",
+ "usage": [
+  436,
+  66
+ ],
+ "json": {
+  "question": "До какого числа можно бесплатно забрать Bloons TD 6 в Epic Games Store?",
+  "answer": "До 15 января",
+  "evidence": "Забрать можно до 15 января"
+ }
+}

@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
+.venv/
+.dev/
+data/kt2_cache/emb/
+data/kt2_cache/res_*.pkl

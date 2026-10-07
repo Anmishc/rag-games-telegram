@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"Какие три игры добавят в PlayStation Plus в январе 2026?\", \"answer\": \"Need for Speed Unbound, Disney Epic Mickey: Rebrushed и Core Keeper\", \"evidence\": \"Подписчиков PS Plus ждут три игры:\\n• Need for Speed Unbound (PS5)\\n• Disney Epic Mickey: Rebrushed (PS4/PS5)\\n• Core Keeper (PS4/PS5)\"}\n```",
+ "usage": [
+  463,
+  117
+ ],
+ "json": {
+  "question": "Какие три игры добавят в PlayStation Plus в январе 2026?",
+  "answer": "Need for Speed Unbound, Disney Epic Mickey: Rebrushed и Core Keeper",
+  "evidence": "Подписчиков PS Plus ждут три игры:\n• Need for Speed Unbound (PS5)\n• Disney Epic Mickey: Rebrushed (PS4/PS5)\n• Core Keeper (PS4/PS5)"
+ }
+}

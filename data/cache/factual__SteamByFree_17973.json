@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"До какой даты действует скидка на A Plague Tale: Requiem в Steam?\", \"answer\": \"До 25 июля\", \"evidence\": \"Акция продлится до 25 июля\"}\n```",
+ "usage": [
+  479,
+  63
+ ],
+ "json": {
+  "question": "До какой даты действует скидка на A Plague Tale: Requiem в Steam?",
+  "answer": "До 25 июля",
+  "evidence": "Акция продлится до 25 июля"
+ }
+}
