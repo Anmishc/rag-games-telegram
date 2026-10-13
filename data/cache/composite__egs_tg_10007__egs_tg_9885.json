@@ -1,0 +1,13 @@
+{
+ "raw": "```json\n{\n  \"question\": \"Что произошло с ремейком Prince of Persia: The Sands of Time от Ubisoft, и как это связано с увольнениями в Ubisoft Toronto?\",\n  \"answer\": \"Ремейк Prince of Persia: The Sands of Time был отменён в числе 6 игр Ubisoft. При этом увольнения в Ubisoft Toronto (40 человек, работавших над ремейком Splinter Cell) сопровождались теми же заверениями о продолжении проекта, что ранее звучали и про Prince of Persia — до его отмены, что ставит под сомнение судьбу Splinter Cell.\",\n  \"evidence_1\": \"Ранее похожие заявления звучали и про Prince of Persia: The Sands of Time — но позже проект отменили.\",\n  \"evidence_2\": \"Ubisoft отменила 6 игр, включая ремейк Prince of Persia: The Sands of Time.\"\n}\n```",
+ "usage": [
+  592,
+  281
+ ],
+ "json": {
+  "question": "Что произошло с ремейком Prince of Persia: The Sands of Time от Ubisoft, и как это связано с увольнениями в Ubisoft Toronto?",
+  "answer": "Ремейк Prince of Persia: The Sands of Time был отменён в числе 6 игр Ubisoft. При этом увольнения в Ubisoft Toronto (40 человек, работавших над ремейком Splinter Cell) сопровождались теми же заверениями о продолжении проекта, что ранее звучали и про Prince of Persia — до его отмены, что ставит под сомнение судьбу Splinter Cell.",
+  "evidence_1": "Ранее похожие заявления звучали и про Prince of Persia: The Sands of Time — но позже проект отменили.",
+  "evidence_2": "Ubisoft отменила 6 игр, включая ремейк Prince of Persia: The Sands of Time."
+ }
+}
