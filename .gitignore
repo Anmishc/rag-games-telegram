@@ -4,3 +4,4 @@
 .dev/
 data/kt2_cache/emb/
 data/kt2_cache/res_*.pkl
+data/kt3_cache/emb/*.npy
