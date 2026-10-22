@@ -1,0 +1,11 @@
+{
+ "raw": "{\"label\": \"incorrect\", \"comment\": \"Модель не упомянула отмену ремейка Prince of Persia и его связь с увольнениями в Ubisoft Toronto через параллель со Splinter Cell, вместо этого дав неточную и уклончивую информацию.\"}",
+ "usage": [
+  632,
+  80
+ ],
+ "json": {
+  "label": "incorrect",
+  "comment": "Модель не упомянула отмену ремейка Prince of Persia и его связь с увольнениями в Ubisoft Toronto через параллель со Splinter Cell, вместо этого дав неточную и уклончивую информацию."
+ }
+}

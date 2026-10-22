@@ -1,0 +1,11 @@
+{
+ "raw": "```json\n{\"label\": \"incorrect\", \"comment\": \"Модель дала общий ответ о популярных играх в распродажах вместо конкретных игр из эталонных подборок (No Man's Sky, Remnant II, Garry's Mod, Assassin's Creed Odyssey).\"}\n```",
+ "usage": [
+  632,
+  86
+ ],
+ "json": {
+  "label": "incorrect",
+  "comment": "Модель дала общий ответ о популярных играх в распродажах вместо конкретных игр из эталонных подборок (No Man's Sky, Remnant II, Garry's Mod, Assassin's Creed Odyssey)."
+ }
+}
