@@ -1,0 +1,1 @@
+{"text": "```json\n{\"question\": \"Какая из игр, выпущенных в Epic Games Store в сентябре 2026 года, получила самый высокий балл на OpenCritic?\", \"answer\": \"Control Resonant\", \"posts\": [2, 3], \"kind\": \"сравнение\"}\n```", "tool_calls": [], "in": 626, "out": 67, "sec": 4.958, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

@@ -1,0 +1,1 @@
+{"text": "{\"ambiguous\": true, \"resolved\": true, \"correct\": true, \"comment\": \"Без уточнения вопрос мог относиться к любому магазину, но уточнение про Steam снимает неоднозначность, а эталонный ответ соответствует посту.\"}", "tool_calls": [], "in": 305, "out": 61, "sec": 2.68, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

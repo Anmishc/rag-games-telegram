@@ -1,0 +1,1 @@
+{"text": "```json\n{\"question\": \"Какой хакер взломал Resident Evil Requiem и какую ещё игру он взломал до этого?\", \"answer\": \"voices38, DOOM: The Dark Ages\", \"posts\": [1], \"kind\": \"сводка\"}\n```", "tool_calls": [], "in": 409, "out": 61, "sec": 2.614, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

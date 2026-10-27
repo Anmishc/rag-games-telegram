@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"question\": \"Где завтра выходит игра, которую называют «убийцей Minecraft»?\",\n  \"clarification\": \"В Epic Games Store\",\n  \"answer\": \"Hytale выходит в раннем доступе 13 января в Epic Games Store.\"\n}\n```", "tool_calls": [], "in": 246, "out": 67, "sec": 2.967, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

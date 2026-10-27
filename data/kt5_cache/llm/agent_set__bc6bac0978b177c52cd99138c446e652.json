@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"question\": \"Что там у них сломалось после обновления?\",\n  \"clarification\": \"В ARC Raiders на EGS\",\n  \"answer\": \"Потеря лута, телепорты и нерф пушек\"\n}\n```", "tool_calls": [], "in": 287, "out": 61, "sec": 2.864, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

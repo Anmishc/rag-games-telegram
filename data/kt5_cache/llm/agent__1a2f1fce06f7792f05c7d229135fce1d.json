@@ -1,0 +1,1 @@
+{"text": "Уточню, о каком магазине речь.", "tool_calls": [{"id": "call_00_0GSqsGWrbq40OKESFpa06079", "name": "ask_user", "args": "{\"question\": \"О каком магазине речь — например, Epic Games Store, Steam, GOG, Microsoft Store или какой-то другой?\"}"}], "in": 805, "out": 73, "sec": 1.435, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

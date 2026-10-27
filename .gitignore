@@ -6,3 +6,4 @@ data/kt2_cache/emb/
 data/kt2_cache/res_*.pkl
 data/kt3_cache/emb/*.npy
 data/kt4_cache/chroma/
+kt5_ручная_оценка.xlsx

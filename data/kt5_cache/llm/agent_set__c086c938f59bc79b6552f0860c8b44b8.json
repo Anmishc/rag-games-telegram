@@ -1,0 +1,1 @@
+{"text": "```json\n{\"correct\": true, \"multi\": true, \"clear\": true, \"comment\": \"Всё верно: даты анонса и релиза берутся из двух разных постов, вопрос понятен и не содержит подсказки.\"}\n```", "tool_calls": [], "in": 462, "out": 59, "sec": 4.786, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"ambiguous\": true,\n  \"resolved\": true,\n  \"correct\": true,\n  \"comment\": \"Без уточнения вопрос неоднозначен, но с уточнением про ARC Raiders на EGS ответ верен и следует из поста.\"\n}\n```", "tool_calls": [], "in": 364, "out": 63, "sec": 2.928, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

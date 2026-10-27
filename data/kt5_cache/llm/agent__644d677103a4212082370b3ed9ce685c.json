@@ -1,0 +1,1 @@
+{"text": "Сделка — покупка Electronic Arts фондом PIF за $55 млрд. Уточню детали по доле.", "tool_calls": [{"id": "call_00_mZyNkNHOAUGy1e5lzpzy2648", "name": "search_bm25", "args": "{\"query\": \"PIF доля Electronic Arts 90% акций сделка $55 млрд август 2026\"}"}], "in": 1847, "out": 89, "sec": 1.117, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

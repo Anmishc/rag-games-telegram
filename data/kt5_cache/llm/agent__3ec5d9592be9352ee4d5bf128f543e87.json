@@ -1,0 +1,1 @@
+{"text": "Уточню, о какой игре или экранизации речь.", "tool_calls": [{"id": "call_00_0W7nAdxjTGvwZQd2b5m96796", "name": "ask_user", "args": "{\"question\": \"О какой игре или экранизации речь — где ищете информацию о главном злодее и актёре?\"}"}], "in": 808, "out": 78, "sec": 1.036, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}
