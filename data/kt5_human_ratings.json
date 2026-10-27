@@ -1,0 +1,122 @@
+[
+ {
+  "id": "h01",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h02",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h03",
+  "faithfulness": 5,
+  "relevance": 4,
+  "utilization": 5
+ },
+ {
+  "id": "h04",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h05",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h06",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h07",
+  "faithfulness": 5,
+  "relevance": 1,
+  "utilization": 5
+ },
+ {
+  "id": "h08",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h09",
+  "faithfulness": 4,
+  "relevance": 5,
+  "utilization": 4
+ },
+ {
+  "id": "h10",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h11",
+  "faithfulness": 4,
+  "relevance": 5,
+  "utilization": 3
+ },
+ {
+  "id": "h12",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h13",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h14",
+  "faithfulness": 5,
+  "relevance": 3,
+  "utilization": 5
+ },
+ {
+  "id": "h15",
+  "faithfulness": 5,
+  "relevance": 3,
+  "utilization": 4
+ },
+ {
+  "id": "h16",
+  "faithfulness": 5,
+  "relevance": 5,
+  "utilization": 5
+ },
+ {
+  "id": "h17",
+  "faithfulness": 5,
+  "relevance": 4,
+  "utilization": 3
+ },
+ {
+  "id": "h18",
+  "faithfulness": 5,
+  "relevance": 3,
+  "utilization": 3
+ },
+ {
+  "id": "h19",
+  "faithfulness": 5,
+  "relevance": 1,
+  "utilization": 5
+ },
+ {
+  "id": "h20",
+  "faithfulness": 5,
+  "relevance": 3,
+  "utilization": 3
+ }
+]

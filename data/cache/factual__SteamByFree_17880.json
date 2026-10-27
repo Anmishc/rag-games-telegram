@@ -1,0 +1,12 @@
+{
+ "raw": "```json\n{\"question\": \"До какой даты длится акция на Detroit: Become Human со скидкой в Steam?\", \"answer\": \"До 9 июля\", \"evidence\": \"Акция продлится до 9 июля\"}\n```",
+ "usage": [
+  470,
+  64
+ ],
+ "json": {
+  "question": "До какой даты длится акция на Detroit: Become Human со скидкой в Steam?",
+  "answer": "До 9 июля",
+  "evidence": "Акция продлится до 9 июля"
+ }
+}

@@ -1,0 +1,1 @@
+{"text": "```json\n{\"question\": \"Какая игра, анонсированная на Gamescom 2026, выйдет в один год с League of Legends 2.0 и ранним доступом Unreal Engine 6?\", \"answer\": \"Rainbow Six Tactics\", \"posts\": [1, 2, 3], \"kind\": \"сводка\"}\n```", "tool_calls": [], "in": 869, "out": 80, "sec": 3.849, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

@@ -1,0 +1,1 @@
+{"text": "Уточню, о чём речь.", "tool_calls": [{"id": "call_00_qRSONm3mpHTAwUgog30u9394", "name": "ask_user", "args": "{\"question\": \"О какой игре или обновлении речь? Уточните название игры (или канал/событие), чтобы я нашёл нужный пост.\"}"}], "in": 810, "out": 75, "sec": 1.399, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

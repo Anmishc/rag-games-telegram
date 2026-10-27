@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"ambiguous\": true,\n  \"resolved\": true,\n  \"correct\": true,\n  \"comment\": \"Без уточнения вопрос неоднозначен, но после уточнения про Mafia: The Old Country ответ полностью соответствует посту.\"\n}\n```", "tool_calls": [], "in": 339, "out": 60, "sec": 2.673, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

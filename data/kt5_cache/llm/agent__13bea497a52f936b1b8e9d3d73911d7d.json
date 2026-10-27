@@ -1,0 +1,1 @@
+{"text": "Уточню, о чём речь.", "tool_calls": [{"id": "call_00_lDcob9IJeU0xL8X6OWBv8273", "name": "ask_user", "args": "{\"question\": \"О каком продолжении речь — продолжение какой игры или серии вы имеете в виду?\"}"}], "in": 808, "out": 63, "sec": 0.967, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

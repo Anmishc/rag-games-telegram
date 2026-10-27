@@ -1,0 +1,1 @@
+{"text": "", "tool_calls": [{"id": "call_00_DT9zRz6XEU5WjwW5Qmcz4896", "name": "search_vector", "args": "{\"query\": \"судебный иск против игровой компании\"}"}, {"id": "call_01_BpgUEUyguXG6lGCHfMqP5083", "name": "search_bm25", "args": "{\"query\": \"иск суд\"}"}], "in": 808, "out": 77, "sec": 0.983, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

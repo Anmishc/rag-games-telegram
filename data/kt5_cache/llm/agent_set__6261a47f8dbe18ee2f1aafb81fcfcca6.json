@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"question\": \"Что за продолжение вышло этой ночью?\",\n  \"clarification\": \"Я про Mafia: The Old Country, там DLC вышло.\",\n  \"answer\": \"Да, вышло крупное сюжетное DLC про Энцо и Дона Сальери.\"\n}\n```", "tool_calls": [], "in": 247, "out": 76, "sec": 2.97, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

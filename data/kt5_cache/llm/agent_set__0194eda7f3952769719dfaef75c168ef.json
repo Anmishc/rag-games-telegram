@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"correct\": true,\n  \"multi\": true,\n  \"clear\": true,\n  \"comment\": \"Все условия соблюдены: ответ верен, требует трех постов, вопрос ясен и не содержит подсказок.\"\n}\n```", "tool_calls": [], "in": 647, "out": 55, "sec": 4.934, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

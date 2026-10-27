@@ -1,0 +1,1 @@
+{"text": "Проверю, что заявление про анимации и NPC относится именно к Sony.", "tool_calls": [{"id": "call_00_jvPbh3RlQaO0A9zM6kP63537", "name": "search_bm25", "args": "{\"query\": \"Sony ИИ анимации NPC PlayStation разработка\"}"}], "in": 1815, "out": 67, "sec": 1.433, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

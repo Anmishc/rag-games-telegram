@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"question\": \"Что за ремейк может выйти совсем скоро?\",\n  \"clarification\": \"Я про ту новость, где из Steam удалили трейлеры\",\n  \"answer\": \"Ремейк Fallout 3\"\n}\n```", "tool_calls": [], "in": 268, "out": 61, "sec": 2.465, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

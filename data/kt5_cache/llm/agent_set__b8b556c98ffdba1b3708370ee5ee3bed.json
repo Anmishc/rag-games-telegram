@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"correct\": true,\n  \"multi\": true,\n  \"clear\": true,\n  \"comment\": \"Вопрос корректен, требует сопоставления двух постов и не содержит подсказок.\"\n}\n```", "tool_calls": [], "in": 448, "out": 51, "sec": 2.747, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

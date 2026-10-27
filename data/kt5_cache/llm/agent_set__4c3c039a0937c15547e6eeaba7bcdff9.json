@@ -1,0 +1,1 @@
+{"text": "```json\n{\"ambiguous\": true, \"resolved\": true, \"correct\": true, \"comment\": \"Всё верно.\"}\n```", "tool_calls": [], "in": 345, "out": 31, "sec": 2.544, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

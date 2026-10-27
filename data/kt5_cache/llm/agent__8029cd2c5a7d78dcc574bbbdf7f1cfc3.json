@@ -1,0 +1,1 @@
+{"text": "Уточню, о какой игре речь.", "tool_calls": [{"id": "call_00_76Pu3fcJQRIBKX4VZW382163", "name": "ask_user", "args": "{\"question\": \"Какую игру вы имеете в виду под «убийцей Minecraft»? Например, Hytale, Light No Fire, Cube World или другую?\"}"}], "in": 816, "out": 79, "sec": 1.421, "model": "deepseek-flash", "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501"}

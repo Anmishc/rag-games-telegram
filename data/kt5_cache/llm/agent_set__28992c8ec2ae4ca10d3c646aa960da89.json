@@ -1,0 +1,1 @@
+{"text": "```json\n{\n  \"question\": \"Что случилось с магазином?\",\n  \"clarification\": \"Я про Steam.\",\n  \"answer\": \"Steam лёг по всему миру.\"\n}\n```", "tool_calls": [], "in": 243, "out": 47, "sec": 2.221, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

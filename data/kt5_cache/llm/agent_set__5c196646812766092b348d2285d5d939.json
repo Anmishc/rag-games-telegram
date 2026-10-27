@@ -1,0 +1,1 @@
+{"text": "```json\n{\"question\": \"Какой балл на OpenCritic получила игра 007: First Light и какой тираж она достигла к 20 августа 2026 года?\", \"answer\": \"91 балл и 4 млн копий\", \"posts\": [1, 2], \"kind\": \"сводка\"}\n```", "tool_calls": [], "in": 417, "out": 72, "sec": 5.481, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}

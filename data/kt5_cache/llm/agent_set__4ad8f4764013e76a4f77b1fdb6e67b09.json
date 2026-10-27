@@ -1,0 +1,1 @@
+{"text": "```json\n{\"question\": \"Кто сыграет главного злодея?\", \"clarification\": \"В новой Call of Duty\", \"answer\": \"Мадс Миккельсен\"}\n```", "tool_calls": [], "in": 312, "out": 44, "sec": 2.252, "model": "deepseek-v4-pro", "fingerprint": "a307abda487cd1b463329ccb945ce396"}
